@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "circle.h": "c",
+        "stdio.h": "c",
+        "chrono": "c",
+        "random": "c",
+        "limits": "c",
+        "semaphore": "c",
+        "valarray": "c",
+        "ratio": "c",
+        "ps.h": "c",
+        "b64.h": "c",
+        "iostream": "cpp",
+        "petal.h": "c"
+    }
+}
