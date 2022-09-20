@@ -1,0 +1,3 @@
+/home/vukt/Desktop/c-projects/cmaketest/CMakeFiles/cmaketest.dir
+/home/vukt/Desktop/c-projects/cmaketest/CMakeFiles/edit_cache.dir
+/home/vukt/Desktop/c-projects/cmaketest/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/cmaketest.dir/src/main.cpp.o -o cmaketest 
